@@ -4,3 +4,4 @@ jgregorio-butter-cms.iml
 node_modules
 npm-debug.log
 .DS_Store
+.env
