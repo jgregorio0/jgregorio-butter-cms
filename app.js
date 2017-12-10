@@ -3,6 +3,9 @@
 const express = require('express');
 // const butter = require('buttercms')('e389441bfb10ccd3228e5adb47ccb98a8183eca7');
 const butter = require('buttercms')('d7f1930e5393781672a1fc76cf76b8d470554b93');
+
+console.log("butter", butter);
+
 const app = express()
 
 app.use(express.static('public'))
