@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+jgregorio-butter-cms.iml
+node_modules
+npm-debug.log
+.DS_Store
